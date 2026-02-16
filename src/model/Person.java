@@ -31,8 +31,7 @@ public abstract class Person {
 
     public abstract void getInfo();
 
-
-    public abstract void getCourse();
+    public abstract void printCourses();
 
 
 }
